@@ -1,0 +1,24 @@
+{
+  "name": "@appgeist/example-storage",
+  "version": "1.0.0",
+  "description": "A simple example to demonstrate the usage of @appgeist/storage",
+  "main": "index.js",
+  "author": {
+    "name": "Ionut-Cristian Florescu",
+    "email": "ionut.florescu@gmail.com",
+    "url": "https://github.com/icflorescu"
+  },
+  "private": true,
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "@appgeist/eslint-config-base": "^1.1.1",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "@appgeist/storage": "^1.2.0"
+  }
+}
