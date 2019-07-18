@@ -37,10 +37,10 @@
   resolved "https://registry.yarnpkg.com/@appgeist/get-file-from-url/-/get-file-from-url-1.0.6.tgz#6f9f774b517dae3553a6344e98d38d46c062c2a4"
   integrity sha512-3DtHShqfjwGm/HV6DDU1G2LLUjghR5ZGhMPl7gfZj4XJgmcFmM6YTMRXEz3fE9sJrhLna8l/nXj5z3qmt/q0ZA==
 
-"@appgeist/storage@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@appgeist/storage/-/storage-1.2.0.tgz#f47d91d15fd34e766f5aa4db6ab6ea48b217e8a2"
-  integrity sha512-04fYC+/lvYJuarzVPKBXlnV5FIcK7Qj8DLDs4xWjRx2lysQpfTYTMpIMszK6fxaR7J7C5zT02yl348koFBRQgw==
+"@appgeist/storage@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@appgeist/storage/-/storage-1.2.1.tgz#d1bfaa8f0f6c0b495688d97c778e1492109e7b9f"
+  integrity sha512-mQMmVitGbLOeFVCsD7dFW+6h7AfOS7kWSMSiMUUnRDElJQWBHPLQHBYj6bhJWdGkIRDsnpK7GkTzpHPCYpwNMg==
   dependencies:
     "@appgeist/ensure-dir" "^1.0.5"
     "@appgeist/exec" "^1.0.7"
